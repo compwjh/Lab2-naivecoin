@@ -28,9 +28,9 @@ npm run-script main
 npm run-script clean
 ```
 
-#### Run exercise 2
+#### Run exercise 3
 ```sh
-cd naivecoin_2
+cd naivecoin_3
 # install the dependencies
 npm install
 # run main code 
