@@ -13,8 +13,6 @@ cd naivecoin_1
 npm install
 # run main code 
 npm run-script main
-# clean the local database
-npm run-script clean
 ```
 
 #### Run exercise 2
@@ -24,8 +22,6 @@ cd naivecoin_2
 npm install
 # run main code 
 npm run-script main
-# clean the local database
-npm run-script clean
 ```
 
 #### Run exercise 3
@@ -35,6 +31,4 @@ cd naivecoin_3
 npm install
 # run main code 
 npm run-script main
-# clean the local database
-npm run-script clean
 ```
