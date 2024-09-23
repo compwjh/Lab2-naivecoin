@@ -37,10 +37,7 @@ class Transaction {
         this.id = null;
         this.hash = null;
         this.type = null;
-        this.data = {
-            inputs: [],
-            outputs: []
-        };
+        this.data = null;
     }
 
     toHash() {
